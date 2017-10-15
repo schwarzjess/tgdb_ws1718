@@ -17,7 +17,7 @@ Schaue dir das Datenbankmodell an. Wofür steht hinter dem Datentyp `NUMBER` die
 Nehme dir die Oracle [Dokumentation](https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT012) zu Hilfe.
 
 #### Lösung
-Anzahl..
+Anzahl..fshrttjv
 
 ### Aufgabe 2
 Was bedeuten die durchgezogenen Linien, die zwischen einigen Tabellen abgebildet sind?
